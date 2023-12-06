@@ -1,2 +1,2 @@
-# java-explore-with-me
+# java-follow-me
 
